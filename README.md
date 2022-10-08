@@ -3,8 +3,8 @@ Proyecto final datascience
 Comision: 32755
 
 Integrantes:
-            Natanael Cobos
-            Nadia Camargo
+            Natanael Cobos /n
+            Nadia Camargo /n
             Tomas Agesta
 
 Primer desafio: "Elección de potenciales Datasets e importe con la librería Pandas"

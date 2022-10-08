@@ -17,7 +17,7 @@ Se crean 3 notebooks para cada dataset. <br>
 
 Se importan los dataset y se realizan pruebas para determinar los target de cada uno con el fin de elegir solo uno para el proyecto final.<br>
 
-## OBJETIVO 
+## OBJETIVO DEL PROYECTO
 
 #### Se busca encontrar una relacion entre los productos mas buscados y el precio. 
 

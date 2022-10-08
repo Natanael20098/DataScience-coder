@@ -14,3 +14,13 @@ Se definen 3 tipos de potenciales dataset - "Salary_report" - "Spotify_songs" - 
 Se crean 3 notebooks para cada dataset. 
 
 Se importan los dataset y se realizan pruebas para determinar los target de cada uno con el fin de elegir solo uno para el proyecto final. 
+
+### OBJETIVO 
+
+Se busca encontrar una relacion entre los productos mas buscados y el precio. 
+
+Preguntas:
+Hay relacion entre los precios y los productos?
+Las personas eligen por precio o necesidad de los productos?
+Se puede predecir los articulos que van a comprar?
+Se puede crear ofertas con los productos mas elegidos?

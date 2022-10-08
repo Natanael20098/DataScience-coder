@@ -3,10 +3,11 @@
 Proyecto final datascience
 Comision: 32755
 
-Integrantes: 
-           <br> Natanael Cobos <br>
-            <br> Nadia Camargo <br>
-            <br> Tomas Agesta <br>
+Integrantes: <br>
+<br>
+            Natanael Cobos <br>
+            Nadia Camargo <br>
+            Tomas Agesta <br>
 
 Primer desafio: "Elección de potenciales Datasets e importe con la librería Pandas" <br>
 
@@ -20,8 +21,8 @@ Se importan los dataset y se realizan pruebas para determinar los target de cada
 
 #### Se busca encontrar una relacion entre los productos mas buscados y el precio. 
 
-Preguntas:<br>
-<br>
+<br>Preguntas:<br>
+
 Hay relacion entre los precios y los productos?  <br>
 Las personas eligen por precio o necesidad de los productos?<br>
 Se puede predecir los articulos que van a comprar? <br>

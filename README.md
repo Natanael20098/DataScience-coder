@@ -12,7 +12,7 @@ Integrantes: <br>
 
 ## Primer desafio:  <br>
 
-### Conigna 1:
+### Consigna 1:
 
 Se definen 3 tipos de potenciales dataset - ### "unemplyment_rate_analysis" - "Spotify_songs" - "Supermarketsales" ### <br>
 ### Consigna 2: <br>
@@ -24,3 +24,5 @@ Se importan los dataset y se realizan pruebas para determinar los target de cada
 ### Consigna 3: <br>
 
 Describir las variables potencialmente interesantes en cada archivo teniendo en cuenta el contexto comercial y analitico involucrado <br>
+
+#### unemplyment_rate_analysis<br>

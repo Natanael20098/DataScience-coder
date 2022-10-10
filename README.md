@@ -23,13 +23,4 @@ Se importan los dataset y se realizan pruebas para determinar los target de cada
 
 ### Consigna 3: <br>
 
-
-
-#### Se busca encontrar una relacion entre los productos mas buscados y el precio. 
-
-<br>Preguntas:<br>
-
-Hay relacion entre los precios y los productos?  <br>
-Las personas eligen por precio o necesidad de los productos?<br>
-Se puede predecir los articulos que van a comprar? <br>
-Se puede crear ofertas con los productos mas elegidos? <br>
+Describir las variables potencialmente interesantes en cada archivo teniendo en cuenta el contexto comercial y analitico involucrado <br>

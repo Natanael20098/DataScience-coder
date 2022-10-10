@@ -25,4 +25,6 @@ Se importan los dataset y se realizan pruebas para determinar los target de cada
 
 Describir las variables potencialmente interesantes en cada archivo teniendo en cuenta el contexto comercial y analitico involucrado <br>
 
-#### unemplyment_rate_analysis<br>
+#### unemplyment_rate_analysis:<br>
+La tasa de desempleo se refiere a las personas en edad laboral que no tienen empleo, que están dispuestas a trabajar, y que han realizado acciones específicas para encontrar empleo. <br>
+*- Se busca realizar una prediccion sobre la tasa de desempleo para los siguientes años en algunos paises. <br>
